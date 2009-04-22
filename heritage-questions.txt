@@ -1,34 +1,62 @@
-[Personal] If you were to pick the two or three people you admire the very most, who would they be? Why do you admire them the very most?
-[Personal] What are a few of the most difficult challenges or obstacles that you've had to overcome?
-[Personal] What is the biggest thing you have accomplished so far in your life? What opportunities and choices led you to accomplish that thing?
-[Personal] Who are the most important people in your life? At what moments in their lives were you the most proud of them?
-[Personal] When have you felt closest to the Savior in your life? Can you describe that time in your life?
-[Personal] Can you list a few principles you have learned from studying God's word? How have you benefited from living these principles in your life?
-[Personal] When have you felt most satisfied and at peace in your life? How did that come about?
-[Personal] What is the best choice you have made regarding your education? What led you to make that choice? Would you choose any different if you had it to do over?
-[Personal] What was the most exciting invention that was invented in your lifetime? What made it exciting to you?
-[Personal] What is your favorite athletic or recreational activity? Has this changed over the course of your life?
-[Personal] Do you like to read? What books have you enjoyed most?
-[Personal] What are some of your all-time favorite songs? Do you remember the first time you heard them?
-[Personal] What kind of music do you enjoy the most? How were you first exposed to that kind of music?
-[Personal] Can you describe a time in your life when you felt a lot of adversity? How did you get through that time in your life?
-[Personal] Which books have been the most mind-expanding for you? How did you happen to choose those books to read?
-[Personal] What was your favorite thing to do as a kid?
-[Personal] What did you want to be when you “growed” up?
-[Personal] What was your first job? and what were you paid?
-[Personal] What did you daydream about?
-[Family] How did you meet your spouse? What attracted you to them? What attracts you to them now?
-[Family] Where were you married? Why did you choose that place? Why did you choose to be married in the manner you did?
-[Family] What qualities did you admire most in your parents/grandparents? How did those qualities affect who you are?
-[Family] Do you remember a funny thing that one of your kids said?
-[Family] How did you plan your week as a family? Why did you do it that way?
-[Family] How have you gone about teaching your children the principles of work and thrift?
-[Family] How have you organized your personal and family study of God's word? What has been most effective for your family? and why?
-[Family] What bedtime rituals did you have in your family? Why did you choose those particular rituals?
-[Family] What are the most valuable memories you have of you time together as a family? Can you describe these memories?
-[Misc] What have been the 5 most pivotal world events in your life so far? What did you think about these things?
-[Misc] Who were your best friends? as a kid? as a youth? as an adult? What was it that you liked about each person?
-[Misc] What was your favorite calling in the church? and why?
-[Misc] Where were your favorite places to go on vacation?
-[Misc] What parts of the world have you seen? What were your impressions of them?
-[Misc] When you were young, what was the price of milk? gasoline? soda pop? a home?
+[Personal]
+- If you were to pick the two or three people you admire the very most, who
+  would they be? Why do you admire them the very most?
+- What are a few of the most difficult challenges or obstacles that you've
+  had to overcome?
+- What is the biggest thing you have accomplished so far in your life? What
+  opportunities and choices led you to accomplish that thing?
+- Who are the most important people in your life? At what moments in their
+  lives were you the most proud of them?
+- When have you felt closest to the Savior in your life? Can you describe
+  that time in your life?
+- Can you list a few principles you have learned from studying God's word?
+  How have you benefited from living these principles in your life?
+- When have you felt most satisfied and at peace in your life? How did that
+  come about?
+- What is the best choice you have made regarding your education? What led
+  you to make that choice? Would you choose any different if you had it to do
+  over?
+- What was the most exciting invention that was invented in your lifetime?
+  What made it exciting to you?
+- What is your favorite athletic or recreational activity? Has this changed
+  over the course of your life?
+- Do you like to read? What books have you enjoyed most?
+- What are some of your all-time favorite songs? Do you remember the first
+  time you heard them?
+- What kind of music do you enjoy the most? How were you first exposed to
+  that kind of music?
+- Can you describe a time in your life when you felt a lot of adversity? How
+  did you get through that time in your life?
+- Which books have been the most mind-expanding for you? How did you happen
+  to choose those books to read?
+- What was your favorite thing to do as a kid?
+- What did you want to be when you “growed” up?
+- What was your first job? and what were you paid?
+- What did you daydream about?
+[Family]
+- How did you meet your spouse? What attracted you to them? What attracts
+  you to them now?
+- Where were you married? Why did you choose that place? Why did you choose
+  to be married in the manner you did?
+- What qualities did you admire most in your parents/grandparents? How did
+  those qualities affect who you are?
+- Do you remember a funny thing that one of your kids said?
+- How did you plan your week as a family? Why did you do it that way?
+- How have you gone about teaching your children the principles of work and
+  thrift?
+- How have you organized your personal and family study of God's word? What
+  has been most effective for your family? and why?
+- What bedtime rituals did you have in your family? Why did you choose those
+  particular rituals?
+- What are the most valuable memories you have of you time together as a
+  family? Can you describe these memories?
+[Misc]
+- What have been the 5 most pivotal world events in your life so far? What
+  did you think about these things?
+- Who were your best friends? as a kid? as a youth? as an adult? What was it
+  that you liked about each person?
+- What was your favorite calling in the church? and why?
+- Where were your favorite places to go on vacation?
+- What parts of the world have you seen? What were your impressions of them?
+- When you were young, what was the price of milk? gasoline? soda pop? a
+  home?
